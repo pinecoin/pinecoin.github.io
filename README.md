@@ -1,3 +1,3 @@
-# pinecoin.github.io
+# Pinecoin
 
-The Pinecoin site
+Tokenized Maine Pine Cones
